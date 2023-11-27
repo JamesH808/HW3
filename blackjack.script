@@ -1,0 +1,50 @@
+Script started on 2023-03-02 13:57:07-08:00
+]0;jaholt@WWWSTU-P01:~/hw3[jaholt@WWWSTU-P01 hw3]$ exit./blackjack gcc -ansi -Wall blackjack.c -o blackjack[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kgcc -ansi -Wall blackjack.c -o blackjack
+]0;jaholt@WWWSTU-P01:~/hw3[jaholt@WWWSTU-P01 hw3]$ gcc -ansi -Wall blackjack.c -o blackjack[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[K./blackjack 
+************************************
+** Welcome to CENG 231 BlackJack! **
+************************************
+Your first card is: 8 
+Do you want another card?
+Type 1 for Yes, 0 for No: 1
+Your next card is: 3 
+Your combined value is: 11
+Do you want another card?
+Type 1 for Yes, 0 for No: 1
+Your next card is: 2 
+Your combined value is: 13
+Do you want another card?
+Type 1 for Yes, 0 for No: 1
+Your next card is: 5 
+Your combined value is: 18
+Do you want another card?
+Type 1 for Yes, 0 for No: 0
+Dealer draws another card
+Dealer's card is 6
+Dealer's value is 6, you have 18
+Dealer draws another card
+Dealer's card is 6
+Dealer's value is 12, you have 18
+Dealer draws another card
+Dealer's card is 10
+Dealer's value is 22, you have 18
+Dealer loses. You win!
+]0;jaholt@WWWSTU-P01:~/hw3[jaholt@WWWSTU-P01 hw3]$ ./blackjack 
+************************************
+** Welcome to CENG 231 BlackJack! **
+************************************
+Your first card is: 10 
+Do you want another card?
+Type 1 for Yes, 0 for No: 
+0
+Dealer draws another card
+Dealer's card is 9
+Dealer's value is 9, you have 10
+Dealer draws another card
+Dealer's card is 7
+Dealer's value is 16, you have 10
+Dealer wins. You lose!
+]0;jaholt@WWWSTU-P01:~/hw3[jaholt@WWWSTU-P01 hw3]$ exit
+exit
+
+Script done on 2023-03-02 13:57:37-08:00
